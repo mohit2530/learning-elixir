@@ -1,0 +1,18 @@
+
+Elixir documentation - https://elixir-lang.org/install/
+
+Windows - https://elixir-lang.org/install/
+
+Scroll to windows section and download the Erlang Installer
+
+Mac OS - brew install elixir
+
+Linux - ( ubuntu )
+
+sudo add-apt-repository ppa:rabbitmq/rabbitmq-erlang
+sudo apt update
+sudo apt install git elixir erlang
+
+Install VS Code and use plugin
+
+ElixirLS: Elixir support and debugger
